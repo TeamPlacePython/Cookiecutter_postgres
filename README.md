@@ -8,6 +8,6 @@ To use this project, you will need to install:
 - [Docker Desktop](https://docs.docker.com/desktop/)
 - [uv](https://docs.astral.sh/uv/getting-started/installation/)
 
-- Generate the compose.yml file using `uvx cookiecutter gh:start-new/postgres`
+- Generate the compose.yml file using `uvx cookiecutter gh:TeamPlacePython/Cookiecutter_postgres`
 - Answer the questions
 - Launch the database using `docker compose up -d`
